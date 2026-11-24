@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/((?!assets/|styles.css|script.js).*)","destination":"/index.html"}]}
